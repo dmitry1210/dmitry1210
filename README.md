@@ -2,7 +2,11 @@
 
 My name is Dmitry, I'm a Junior Frontend Developer studying at Hexlet School and striving to become a Full Stack Developer.
 
+I've studied layout at the [HTML Academy](https://htmlacademy.ru/), and currently studying for a Frontend Developer at [Hexlet](https://ru.hexlet.io/).
+
+<!--
 I have two higher educations and several years of work experience in an international company with structured business processes and KPIs.
+-->
 
 ---
 ### My skills & tech stack:
