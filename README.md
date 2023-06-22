@@ -5,7 +5,7 @@ My name is Dmitry, I'm a Junior Frontend Developer studying at Hexlet School and
 I have two higher educations and several years of work experience in an international company with structured business processes and KPIs.
 
 ---
-### My skills & tech stack
+### My skills & tech stack:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -13,6 +13,7 @@ I have two higher educations and several years of work experience in an internat
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
+
 
 - Russian language - native
 - English language - C1
