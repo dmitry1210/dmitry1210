@@ -4,6 +4,10 @@ My name is Dmitry, I'm a Junior Frontend Developer studying at Hexlet School and
 
 I have two higher educations and several years of work experience in an international company with structured business processes and KPIs.
 
+### Contact me
+---
+dmitry120@gmail.com
+
 ### My current tech stack
 ---
 
@@ -16,6 +20,9 @@ https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=f
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
+
+### Soft skills
+---
 
 
 
