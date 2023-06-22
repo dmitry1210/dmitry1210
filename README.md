@@ -7,6 +7,9 @@ I have two higher educations and several years of work experience in an internat
 My current tech stack
 
 ---
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+
+
 
 - 🔭 I’m currently working on ...
 
