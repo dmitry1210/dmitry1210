@@ -28,26 +28,11 @@ I have two higher educations and several years of work experience in an internat
 ### Some of my stats & activities:
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=dmitry1210&show_icons=true&bg_color=00000000" title="Dmitry's github stats" alt="Dmitry's github stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitry1210&layout=compact&langs_count=6" title="Dmitry's top langs" alt="Dmitry's top langs"/>
-</div>
-
-<p>
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitry1210&show_icons=true&bg_color=00000000)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitry1210&layout=compact&langs_count=6)
-</p>
-
-<div>
-<a href="http://www.github.com/dmitry1210"><img src="https://github-readme-stats.vercel.app/api?username=dmitry1210&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="dmitry1210's GitHub stats" /></a>
-
-<a href="https://github.com/dmitry1210" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitry1210&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  <img margin-right="20px" src="https://github-readme-stats.vercel.app/api?username=dmitry1210&show_icons=true&bg_color=00000000" title="Dmitry's github stats" alt="Dmitry's github stats"/>
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitry1210&layout=compact&langs_count=10" title="Dmitry's top langs" alt="Dmitry's top langs"/>
 </div>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/dmitry1210?theme=dark&font=Maven%20Pro)
-
-
 
 <!--
 **dmitry1210/dmitry1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
