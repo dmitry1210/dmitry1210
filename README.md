@@ -26,10 +26,10 @@ I have two higher educations and several years of work experience in an internat
 
 ---
 ### Some of my stats & activities:
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitry1210&show_icons=true&bg_color=00000000)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitry1210&layout=compact&langs_count=6)
+<div>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitry1210&show_icons=true&bg_color=00000000)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitry1210&layout=compact&langs_count=6)
+</div>
 
 <div>
 <a href="http://www.github.com/dmitry1210"><img src="https://github-readme-stats.vercel.app/api?username=dmitry1210&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="dmitry1210's GitHub stats" /></a>
