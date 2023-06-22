@@ -14,6 +14,9 @@ I have two higher educations and several years of work experience in an internat
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 
+Russian language - native
+English language - C1
+
 ---
 
 ### Soft skills
