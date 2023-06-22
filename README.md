@@ -23,9 +23,8 @@ I have two higher educations and several years of work experience in an internat
 ### Some of my stats & activities:
 <p>
   <div>
+    <a href="https://github.com/dmitry1210" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitry1210&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
     <a href="http://www.github.com/dmitry1210"><img src="https://github-readme-stats.vercel.app/api?username=dmitry1210&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="dmitry1210's GitHub stats" /></a>
-
-<a href="https://github.com/dmitry1210" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitry1210&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
   </div>
 </p>
 
