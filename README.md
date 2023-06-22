@@ -6,14 +6,12 @@ I have two higher educations and several years of work experience in an internat
 
 ---
 ### My skills & tech stack:
-<p>
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  </div>
-</p>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+</div>
 <p>- Russian language - native
 </p>
 <p>- English language - C1
@@ -21,13 +19,11 @@ I have two higher educations and several years of work experience in an internat
 
 ---
 ### Some of my stats & activities:
-<p>
-  <div>
+<div>
 <a href="http://www.github.com/dmitry1210"><img src="https://github-readme-stats.vercel.app/api?username=dmitry1210&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="dmitry1210's GitHub stats" /></a>
 
 <a href="https://github.com/dmitry1210" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitry1210&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-  </div>
-</p>
+</div>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/dmitry1210?theme=dark&font=Maven%20Pro)
 
