@@ -9,7 +9,7 @@ I have two higher educations and several years of work experience in an internat
 -->
 
 ---
-### My skills & tech stack:
+### My tech stack & skills:
 <p>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
