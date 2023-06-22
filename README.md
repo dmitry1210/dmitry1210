@@ -26,6 +26,12 @@ I have two higher educations and several years of work experience in an internat
 
 ---
 ### Some of my stats & activities:
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=dmitry1210&show_icons=true&bg_color=00000000" title="Dmitry's github stats" alt="Dmitry's github stats"/>;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitry1210&layout=compact&langs_count=6" title="Dmitry's top langs" alt="Dmitry's top langs"/>;
+</p>
+
 <p>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitry1210&show_icons=true&bg_color=00000000)
