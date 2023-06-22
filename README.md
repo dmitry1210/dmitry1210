@@ -13,10 +13,10 @@ I have two higher educations and several years of work experience in an internat
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
-
-
+<p>
 - Russian language - native
 - English language - C1
+</p>
 
 ---
 
