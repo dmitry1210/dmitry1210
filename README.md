@@ -29,7 +29,7 @@ I have two higher educations and several years of work experience in an internat
 <p>
   <div style="max-width: 100%;margin-bottom: 20px;">
     <img margin-right="20px" src="https://github-readme-stats.vercel.app/api?username=dmitry1210&show_icons=true&bg_color=00000000" title="Dmitry's github stats" alt="Dmitry's github stats"/>
-    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitry1210&layout=compact&langs_count=10" title="Dmitry's top langs" alt="Dmitry's top langs" style="max-width: 100%;margin-right: 20px;"/>
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitry1210&layout=compact&langs_count=10" title="Dmitry's top langs" alt="Dmitry's top langs" style="max-width: 100%;padding-right: 20px;"/>
   </div>
 </p>
 
