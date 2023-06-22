@@ -30,6 +30,7 @@ I have two higher educations and several years of work experience in an internat
 </p>
 <p>
   ![Leetcode Stats](https://leetcard.jacoblin.cool/dmitry1210?theme=dark)
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/dmitry1210)
 </p>
 
 
