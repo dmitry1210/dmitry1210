@@ -20,14 +20,15 @@ I have two higher educations and several years of work experience in an internat
 </p>
 
 ---
+### Some of my stats & activities:
+<p>
+  <div>
+    <a href="http://www.github.com/dmitry1210"><img src="https://github-readme-stats.vercel.app/api?username=dmitry1210&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="dmitry1210's GitHub stats" /></a>
 
-### Soft skills
+<a href="https://github.com/dmitry1210" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitry1210&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  </div>
+</p>
 
-
-
-
-
-- 🔭 I’m currently working on ...
 
 <!--
 **dmitry1210/dmitry1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
