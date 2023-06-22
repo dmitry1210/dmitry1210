@@ -28,9 +28,9 @@ I have two higher educations and several years of work experience in an internat
 <a href="https://github.com/dmitry1210" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitry1210&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
   </div>
 </p>
-<p>
-  https://leetcard.jacoblin.cool/dmitry1210?theme=dark&font=Maven%20Pro
-</p>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/dmitry1210?theme=dark&font=Maven%20Pro)
+
 
 
 <!--
