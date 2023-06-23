@@ -34,7 +34,7 @@ I have two higher educations and several years of work experience in an internat
   </div>
 </p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/dmitry1210?theme=dark&font=Maven%20Pro)
+![LeetCode Stats](https://leetcard.jacoblin.cool/dmitry1210?theme=light&font=Maven%20Pro)
 
 <!--
 **dmitry1210/dmitry1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
