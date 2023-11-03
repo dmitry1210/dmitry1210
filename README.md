@@ -2,7 +2,7 @@
 
 My name is Dmitry, a team player with a good eye for detail & desire to develop in IT. That guy who always puts agenda in the meeting invitation and "Thank you" at the end of an e-mail.
 
-I've studied layout at the [HTML Academy](https://htmlacademy.ru/), and currently studying Frontend at [Hexlet](https://ru.hexlet.io/).
+Have practical skills working with HTML, CSS (SCSS), JS. Experienced user of Git. I know demands & requirements of a real business. Learning fast and have a great desire to develop in frontend.
 
 ---
 ### My tech stack & skills:
