@@ -2,7 +2,7 @@
 
 My name is Dmitry, a team player with a good eye for detail & desire to develop in IT. That guy who always puts agenda in the meeting invitation and "Thank you" at the end of an e-mail.
 
-Have practical skills working with HTML, CSS (SCSS), JS. Experienced user of Git. I know demands & requirements of a real business. Learning fast and have a great desire to develop in frontend.
+Have practical skills working with HTML, CSS (SCSS), JS. Experienced user of Git. I know demands & requirements of a real business. Learning fast and have a great desire to develop in Frontend.
 
 ---
 ### My tech stack & skills:
